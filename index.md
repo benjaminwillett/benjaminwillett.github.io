@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to DistortEnterprises GitHub page
 
-You can use the [editor on GitHub](https://github.com/distortenterprises/distortenterprises.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I will be using this site to document all the tech projects I attempt in the hope it will be a record for myself as well as possibly assist you.
 
 ### Markdown
 
