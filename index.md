@@ -8,4 +8,6 @@ I will be using this site to document all the tech projects I attempt in the hop
 - [sqlite](https://benjaminwillett.github.io/sqlite.md)
 - [flask](https://benjaminwillett.github.io/flask.md)
 - [S3](https://benjaminwillett.github.io/s3.md)
-- [GitHub](https://benjaminwillett.github.io/github.md)
+- [GitHub](https://benjaminwillett.github.io/git.md)
+- [DropBox](https://benjaminwillett.github.io/dropbox.md)
+- [Heroku](https://benjaminwillett.github.io/heroku.md)
