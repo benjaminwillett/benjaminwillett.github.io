@@ -12,7 +12,7 @@ I will be using this site to document all the tech projects I attempt in the hop
 - [DropBox](https://benjaminwillett.github.io/dropbox)
 - [Heroku](https://benjaminwillett.github.io/heroku)
 - [Cisco](https://benjaminwillett.github.io/cisco)
-- [Checkpoint](https://benjaminwillett.github.io/cacheckpoint)
+- [Checkpoint](https://benjaminwillett.github.io/checkpoint)
 - [F5](https://benjaminwillett.github.io/f5)
 - [Netscaler](https://benjaminwillett.github.io/netscaler)
 - [Ubuntu](https://benjaminwillett.github.io/ubuntu)
