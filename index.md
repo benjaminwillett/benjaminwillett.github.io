@@ -2,7 +2,7 @@
 
 I will be using this site to document all the tech projects I attempt in the hope it will be a record for myself as well as assistance to others.
 
-- [Docker](docker.md)
-- [Vagrant](vagrant.md)
-- [python](python.md)
-- [sqlite](sqlite.md)
+- [Docker](https://benjaminwillett.github.io/docker.md)
+- [Vagrant](https://benjaminwillett.github.io/vagrant.md)
+- [python](https://benjaminwillett.github.io/python.md)
+- [sqlite](https://benjaminwillett.github.io/sqlite.md)
