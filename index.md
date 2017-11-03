@@ -24,6 +24,8 @@ I will be using this site to document all the tech projects I attempt in the hop
 - [Nginx](https://benjaminwillett.github.io/nginx)
 - [Apache](https://benjaminwillett.github.io/apache)
 - [LegoMindstorms](https://benjaminwillett.github.io/legomindstorms)
+- [Arduino](https://benjaminwillett.github.io/arduino)
+- [scratch](https://benjaminwillett.github.io/scratch)
 - [Pycharm](https://benjaminwillett.github.io/pycharm)
 - [Cacti](https://benjaminwillett.github.io/cacti)
 - [Weathermap](https://benjaminwillett.github.io/weathermap)
