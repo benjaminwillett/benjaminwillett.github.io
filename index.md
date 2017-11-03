@@ -20,7 +20,6 @@ I will be using this site to document all the tech projects I attempt in the hop
 - [IIS](https://benjaminwillett.github.io/iis)
 - [Nginx](https://benjaminwillett.github.io/nginx)
 - [Apache](https://benjaminwillett.github.io/apache)
-- [Cacti](https://benjaminwillett.github.io/cacti)
 - [LegoMindstorms](https://benjaminwillett.github.io/legomindstorms)
 - [Pycharm](https://benjaminwillett.github.io/pycharm)
 - [Cacti](https://benjaminwillett.github.io/cacti)
